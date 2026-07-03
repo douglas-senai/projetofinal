@@ -12,28 +12,28 @@ O objetivo principal é construir um modelo que possa classificar com precisão 
 ### Pré-requisitos
 * Ter o Python 3.x instalado em sua máquina.
 * Ter as seguintes bibliotecas:
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from imblearn.over_sampling import SMOTE
-from sklearn.preprocessing import StandardScaler
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import classification_report, confusion_matrix
+*import pandas as pd
+*import numpy as np
+*import matplotlib.pyplot as plt
+*import seaborn as sns
+*from sklearn.model_selection import train_test_split
+*from imblearn.over_sampling import SMOTE
+*from sklearn.preprocessing import StandardScaler
+*from sklearn.neighbors import KNeighborsClassifier
+*from sklearn.metrics import accuracy_score
+*from sklearn.tree import DecisionTreeClassifier
+*from sklearn.metrics import classification_report, confusion_matrix
 
 ### Passo a Passo
 
 1. **Clone este repositório** para a sua máquina local utilizando o terminal ou prompt de comando:
    ```bash
-   git clone https://github.com/douglas-senai/
+   git clone https://github.com/douglas-senai/projetofinal.git
    ```
 
 2. **Navegue até o diretório** do projeto:
    ```bash
-   cd 
+   cd projetofinal
    ```
 3. **Certifique-se de que os arquivos de dados** (`credit_risk_dataset.csv`) estão localizados na mesma pasta do seu arquivo do notebook ou script Python.
 
