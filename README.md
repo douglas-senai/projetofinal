@@ -40,8 +40,8 @@ O objetivo principal é construir um modelo que possa classificar com precisão 
 4. **Execute o arquivo:**
    * Utilize o arquivo `.ipynb`, abra-o através do **Jupyter Notebook**, **VS Code** ou **Google Colab** e execute todas as células (`Run All`).
 
-#### Resumo Executivo
-**Principais Insights da Análise Exploratória de Dados (EDA)
+## Resumo Executivo
+###Principais Insights da Análise Exploratória de Dados (EDA)
 Valores Nulos: Foram identificados e tratados valores nulos nas colunas person_emp_length e loan_int_rate através da imputação pela mediana para evitar perda de dados e vieses.
 Outliers: Observou-se a presença de outliers em person_age (idades muito altas) e person_emp_length (tempos de emprego excessivamente longos), que foram ajustados para a mediana, considerando-os como dados irrealistas.
 Balanceamento de Classes: A variável alvo loan_status (inadimplência) apresentou um desbalanceamento significativo, com a classe 'não inadimplente' sendo majoritária. Este problema foi mitigado utilizando a técnica SMOTE (Synthetic Minority Over-sampling Technique) no conjunto de treino, garantindo um melhor treinamento do modelo para ambas as classes.
