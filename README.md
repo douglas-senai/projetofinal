@@ -42,7 +42,7 @@ O objetivo principal é construir um modelo que possa classificar com precisão 
 
 ## Resumo Executivo
 
-* Principais Insights da Análise Exploratória de Dados (EDA)
+### Principais Insights da Análise Exploratória de Dados (EDA)
 
 Valores Nulos: Foram identificados e tratados valores nulos nas colunas person_emp_length e loan_int_rate através da imputação pela mediana para evitar perda de dados e vieses.
 Outliers: Observou-se a presença de outliers em person_age (idades muito altas) e person_emp_length (tempos de emprego excessivamente longos), que foram ajustados para a mediana, considerando-os como dados irrealistas.
