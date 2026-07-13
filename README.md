@@ -1,4 +1,4 @@
-# Análise de Risco de Crédito - Porjeto Senai [M1]
+# Análise de Risco de Crédito - Projeto Senai [M1]
 
 Descrição:
 Este projeto visa desenvolver e avaliar modelos de Machine Learning para prever o risco de inadimplência em solicitações de empréstimo. Para instituições financeiras, a capacidade de identificar clientes com alta probabilidade de não cumprir suas obrigações financeiras é crucial para mitigar perdas, otimizar a concessão de crédito e manter a saúde financeira.
